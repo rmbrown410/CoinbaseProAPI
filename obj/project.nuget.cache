@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aabYM6aOGDp9+UDtrSsCkUi66uu+2HVRshab2y5AMCcwoAjQz+mtKo9QvEqGnCMQd+UkicRH6CxUghgrO7uNXA==",
+  "success": true,
+  "projectFilePath": "/Users/ryanbrown/Desktop/Projects/CoinbaseProAPI copy/CoinbaseProAPI/CoinbaseProAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/ryanbrown/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

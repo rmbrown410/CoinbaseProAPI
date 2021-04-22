@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{28B2F4FE-CABC-4F65-B5D8-904F286E054C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="16" Column="41" />
+      <File FileName="../BinanceUSAPI/Program.cs" Line="14" Column="1" />
+      <File FileName="../BittrexAPI/Program.cs" Line="13" Column="40" />
+      <File FileName="ProductsApiCalls.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+          <Node name="CoinbaseProAPI" expanded="True">
+            <Node name="BinanceUSAPI" expanded="True" />
+            <Node name="BittrexAPI" expanded="True" />
+            <Node name="CoinbaseProAPI" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CoinbaseProAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+/Users/ryanbrown/Projects/CoinbaseProAPI/CoinbaseProAPI/bin/Debug/netcoreapp3.1/CoinbaseProAPI.deps.json
+/Users/ryanbrown/Projects/CoinbaseProAPI/CoinbaseProAPI/bin/Debug/netcoreapp3.1/CoinbaseProAPI.runtimeconfig.json
+/Users/ryanbrown/Projects/CoinbaseProAPI/CoinbaseProAPI/bin/Debug/netcoreapp3.1/CoinbaseProAPI.runtimeconfig.dev.json
+/Users/ryanbrown/Projects/CoinbaseProAPI/CoinbaseProAPI/bin/Debug/netcoreapp3.1/CoinbaseProAPI.dll
+/Users/ryanbrown/Projects/CoinbaseProAPI/CoinbaseProAPI/bin/Debug/netcoreapp3.1/CoinbaseProAPI.pdb
+/Users/ryanbrown/Projects/CoinbaseProAPI/CoinbaseProAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ryanbrown/Projects/CoinbaseProAPI/CoinbaseProAPI/obj/Debug/netcoreapp3.1/CoinbaseProAPI.csprojAssemblyReference.cache
+/Users/ryanbrown/Projects/CoinbaseProAPI/CoinbaseProAPI/obj/Debug/netcoreapp3.1/CoinbaseProAPI.AssemblyInfoInputs.cache
+/Users/ryanbrown/Projects/CoinbaseProAPI/CoinbaseProAPI/obj/Debug/netcoreapp3.1/CoinbaseProAPI.AssemblyInfo.cs
+/Users/ryanbrown/Projects/CoinbaseProAPI/CoinbaseProAPI/obj/Debug/netcoreapp3.1/CoinbaseProAPI.csproj.CoreCompileInputs.cache
+/Users/ryanbrown/Projects/CoinbaseProAPI/CoinbaseProAPI/obj/Debug/netcoreapp3.1/CoinbaseProAPI.csproj.CopyComplete
+/Users/ryanbrown/Projects/CoinbaseProAPI/CoinbaseProAPI/obj/Debug/netcoreapp3.1/CoinbaseProAPI.dll
+/Users/ryanbrown/Projects/CoinbaseProAPI/CoinbaseProAPI/obj/Debug/netcoreapp3.1/CoinbaseProAPI.pdb
+/Users/ryanbrown/Projects/CoinbaseProAPI/CoinbaseProAPI/obj/Debug/netcoreapp3.1/CoinbaseProAPI.genruntimeconfig.cache
